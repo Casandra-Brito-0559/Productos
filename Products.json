@@ -34,7 +34,7 @@
     "description": "La clásica novela de Miguel de Cervantes que satiriza los libros de caballería.",
     "rating": 4.7,
     "discountPercentage": 12.0,
-    "image": "https://images-na.ssl-images-amazon.com/images/I/81Q0Fdp+y+L.jpg"
+    "image": "https://m.media-amazon.com/images/I/91CIwR3QU1L._UF894,1000_QL80_DpWeblab_.jpg"
   },
   {
     "id": 5,
@@ -61,7 +61,7 @@
     "description": "Primera parte de la Crónica del Asesino de Reyes, escrita por Patrick Rothfuss.",
     "rating": 4.8,
     "discountPercentage": 7.5,
-    "image": "https://images-na.ssl-images-amazon.com/images/I/81BC0hPj1+L.jpg"
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/a7/90/a790dff70defe5c61b66fd73716b6e30.jpg"
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@
     "description": "Una novela breve de Gabriel García Márquez sobre un asesinato anunciado.",
     "rating": 4.5,
     "discountPercentage": 6.0,
-    "image": "https://images-na.ssl-images-amazon.com/images/I/81s6DUyQCZL.jpg"
+    "image": "https://m.media-amazon.com/images/I/81ItYmT-50L.jpg"
   },
   {
     "id": 9,
@@ -79,7 +79,7 @@
     "description": "Una novela innovadora de Julio Cortázar que rompe con la narrativa tradicional.",
     "rating": 4.4,
     "discountPercentage": 9.0,
-    "image": "https://images-na.ssl-images-amazon.com/images/I/71zJzds3wIL.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rayuela_JC.png"
   },
   {
     "id": 10,
