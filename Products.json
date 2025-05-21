@@ -1,4 +1,5 @@
-[
+{
+"products": [
   {
     "id": 1,
     "title": "Cien años de soledad",
@@ -90,3 +91,4 @@
     "image": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg"
   }
 ]
+}
