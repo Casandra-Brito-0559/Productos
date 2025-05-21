@@ -1,0 +1,94 @@
+{
+  "products":[
+  {
+    "id": 1,
+    "title": "Norwegian Wood",
+    "price": 14.99,
+    "description": "Una historia de amor y pérdida escrita por Haruki Murakami, ambientada en el Tokio de los años 60.",
+    "rating": 4.6,
+    "discountPercentage": 10.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/norwegian_wood.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pachinko",
+    "price": 18.99,
+    "description": "Una saga familiar coreana escrita por Min Jin Lee, que abarca generaciones entre Corea y Japón.",
+    "rating": 4.8,
+    "discountPercentage": 12.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/Pachinko.jpg"
+  },
+  {
+    "id": 3,
+    "title": "La dependienta",
+    "price": 13.50,
+    "description": "Una novela japonesa de Sayaka Murata sobre el rol de las mujeres en la sociedad contemporánea.",
+    "rating": 4.4,
+    "discountPercentage": 8.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/La%20dependienta.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Kim Jiyoung, nacida en 1982",
+    "price": 12.75,
+    "description": "Un retrato de la desigualdad de género en Corea del Sur, escrita por Cho Nam-Joo.",
+    "rating": 4.5,
+    "discountPercentage": 15.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/Kim%20Jiyoung%2C%20nacida%20en%201982.jpg"
+  },
+  {
+    "id": 5,
+    "title": "La carta de una desconocida",
+    "price": 9.99,
+    "description": "Un relato emocional y breve del autor chino Zhang Ailing, centrado en el amor no correspondido.",
+    "rating": 4.3,
+    "discountPercentage": 5.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/carta.jpg"
+  },
+  {
+    "id": 6,
+    "title": "El rumor del oleaje",
+    "price": 11.99,
+    "description": "Una historia de amor juvenil escrita por Yukio Mishima en una isla japonesa.",
+    "rating": 4.6,
+    "discountPercentage": 7.5,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/El%20rumor%20del%20oleaje.jpg"
+  },
+  {
+    "id": 7,
+    "title": "To Live",
+    "price": 16.00,
+    "description": "Una novela china de Yu Hua que narra la transformación de una familia durante el siglo XX.",
+    "rating": 4.7,
+    "discountPercentage": 9.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/To%20Live.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Kafka en la orilla",
+    "price": 17.99,
+    "description": "Una novela surrealista de Haruki Murakami sobre la búsqueda de la identidad y el destino.",
+    "rating": 4.8,
+    "discountPercentage": 10.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/Kafka%20en%20la%20orilla.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Please Look After Mom",
+    "price": 14.25,
+    "description": "Una novela coreana de Kyung-sook Shin que examina las relaciones familiares y la maternidad.",
+    "rating": 4.5,
+    "discountPercentage": 6.5,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/Please%20Look%20After%20Mom.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Balzac y la joven costurera china",
+    "price": 12.49,
+    "description": "Un relato de la Revolución Cultural en China escrito por Dai Sijie, con elementos de literatura occidental.",
+    "rating": 4.4,
+    "discountPercentage": 11.0,
+    "image": "https://raw.githubusercontent.com/Casandra-Brito-0559/Productos/refs/heads/main/Balzac%20y%20la%20joven%20costurera%20china.jpg"
+  }
+]
+}
